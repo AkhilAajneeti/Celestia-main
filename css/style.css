@@ -25700,7 +25700,7 @@ img.mfp-img {
 .brochure-form-wrapper {
   position: absolute;
   right: 30px;
-  bottom: 30px;
+  bottom: 35px;
   z-index: 9999;
   width: 380px;
 }
@@ -25779,16 +25779,8 @@ img.mfp-img {
 
 }
 
-
-
-
-
-/*  */
-
-
 .abs-centered2 {
-    /* position: absolute; */
     top: 25%;
     left: 0;
-    /* transform: translate(-50%, -50%); */
+    
 }
