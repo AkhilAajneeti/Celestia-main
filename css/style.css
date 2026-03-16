@@ -24949,7 +24949,7 @@ img.mfp-img {
 
 @media (max-width: 500px) {
   .configuration-item:nth-child(5) {
-    width: 40% !important;
+    width: 100% !important;
   }
 
   .configuration-item h3 {
